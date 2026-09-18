@@ -4,701 +4,427 @@
 
 > 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
 
----
+# Jules Oscar Mbekal
 
-# 🇫🇷 Français
+**Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques**
 
-##  À propos de moi
+🇫🇷 Français   |   🇬🇧 [English version](README.en.md)
 
-Je suis **ingénieur en informatique spécialisé en Réseau & Cybersécurité**, diplômé de l'**ICAM**.
+🇫🇷 Français
 
-Mon parcours combine une approche **technique opérationnelle** de la cybersécurité — réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement avec une orientation croissante vers la **GRC, l'audit SI, la gestion des risques et la gouvernance de la sécurité**.
-
-   À partir de septembre 2026, je poursuis mon parcours dans le cadre du **Mastère Spécialisé® Audit de la Sécurité des SI à l'Université de Technologie de Troyes (UTT)**.
-
- Je recherche une **alternance de 12 mois** dans les domaines suivants :
-
-*  Audit SI & Audit Cybersécurité
-* GRC — Gouvernance, Risques & Conformité
-* Gestion des risques cyber
-* Gouvernance de la sécurité
-* RSSI / Management de la sécurité
-* TPRM — Third-Party Risk Management
-* SOC & Security Monitoring
-* OSINT & Cyber Intelligence
-
-> **Ma philosophie : comprendre la technologie, identifier les risques, mesurer leurs impacts et transformer les constats en décisions de sécurité concrètes.**
+💼 **Recherche d'alternance de 12 mois** (à partir de Septembre 2026) | Rythme : 3 semaines entreprise / 1 semaine école
+[Email](mailto:Olsenick.mbekal@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
 
 ---
+    ## 🎯 À propos de moi
 
-##  Domaines d'expertise
 
-|   Cybersécurité          |   GRC & Risques     |   Infrastructure  |
-| ------------------------ | ------------------- | ----------------- |
-| OSINT                    | IT Audit            | Réseaux           |
-| Pentest                  | EBIOS Risk Manager  | TCP/IP            |
-| Vulnerability Management | ISO 27001 / 27002   | Windows / Linux   |
-| SOC / SIEM               | Risk Management     | Active Directory  |
-| Hardening                | Security Governance | LAN / WAN         |
-| Threat Investigation     | Compliance          | FortiGate         |
+ Je suis ingénieur en informatique spécialisé en Réseau & Cybersécurité, diplômé de l'ICAM.
+Mon parcours combine une approche technique de la cybersécurité, réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement avec une orientation croissante vers **la GRC, l'audit IT, la gestion des risques et la gouvernance de la sécurité**.
 
----
 
-#  Projets principaux
+ Ma vision de la cybersécurité s'articule autour de trois dimensions indissociables :
 
-## 🔎 OSINT Investigation & Cyber Intelligence Platform
+             ┌─────────────────────┐
+             │      BUSINESS       │
+             │  Impact · Stratégie │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │       RISQUES       │
+             │ Menaces · Contrôles │
+             │   Conformité · GRC  │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │     TECHNOLOGIE     │
+             │ Réseaux · Systèmes  │
+             │   Sécurité · SOC    │
+             └──────────┬──────────┘
 
-### Plateforme centralisée d'investigation OSINT multi-sources
 
-Projet de fin d'études réalisé à **Icam Nantes**.
-
-L'objectif est de concevoir une plateforme permettant de centraliser et corréler différentes sources OSINT afin de faciliter les investigations en cybersécurité.
-
-### Fonctionnalités
-
-*  Recherche par **email, IP, domaine et username**
-*  Orchestration de plusieurs sources OSINT
-*  Corrélation des informations
-*  Analyse assistée par IA
-*  Dashboard interactif
-*  Identification des risques de sécurité
-*  Évaluation automatique de la fiabilité des informations
-*  Prise en compte des enjeux de confidentialité et RGPD
-
-###  ICG — Indice de Confiance Global
-
-J'ai développé une approche de scoring visant à évaluer le niveau de confiance que l'on peut accorder aux informations collectées.
-
-La réflexion s'appuie notamment sur :
-
-* **STANAG 2022** — fiabilité & crédibilité
-* **Wang & Strong** — qualité des données
-* Exactitude
-* Complétude
-* Cohérence
-* Actualité
-* Fiabilité des sources
-
-🔗 **[Voir le projet](#)**
-📚 **[Documentation](#)**
-🖥️ **[Démo](#)**
+Mon objectif : **Comprendre la technique $\rightarrow$ Identifier le risque $\rightarrow$ Communiquer l'impact métier $\rightarrow$ Recommander les contrôles adaptés.**
 
 ---
 
-## 🌱 Wi_Grow Smart Realization
 
-### IoT · Drones · IA · Computer Vision · Agriculture intelligente
+## Langues
 
-Projet technologique conçu pour accompagner le suivi agricole au Cameroun.
 
-La solution combine :
+- **Français** — langue maternelle
+- **Anglais** — niveau C1, [TOEIC 905/990](https://www.ets.org/toeic.html)
 
-* 🌡️ Température
-* 💧 Humidité et données du sol
-* ☀️ Données environnementales
-* 🧪 Nutriments & acidité du sol
-* 🚁 Imagerie par drone
-* 🤖 Analyse assistée par IA
-* 🌽 Détection de maladies et nuisibles
-* 📊 Dashboard destiné aux agriculteurs
-
-🏆 **1er prix du concours d'éloquence**
-
-Projet présenté lors du **Salon Technologique "Évolution Technologique et Stratégique de l'Informatique en Afrique" (ETSIA)**.
-
-🔗 **[Voir le projet](#)**
-🎤 **[Présentation ETSIA](#)**
 
 ---
+## 🎓 Formation & Certifications
 
-# Projets Cybersécurité
+- **2026 → Mastère Spécialisé® Audit de la Sécurité des SI** — Université de Technologie de Troyes (UTT), en alternance
+- **Diplôme d'ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5)** — Institut UCAC-ICAM (Cameroun), 09/2021 - 07/2026 ; dernier semestre et projet de fin d'études à l'Icam Nantes
+- **Apprentissage continu** : TryHackMe, Hack The Box, Root-Me
 
-##  Vulnerability Management
+### Certifications
+* **Validées :** Fortinet Certified Associate (FCA)[cite: 1], Fortinet Certified Fundamentals (FCF)[cite: 1], CCNA[cite: 1], Cisco Junior Cybersecurity Analyst[cite: 1], Six Sigma Yellow Belt[cite: 1], Scrum Fundamental[cite: 1].
+* **Formations & Préparations en cours :** Certified Ethical Hacker v13 (CEHv13 - Formation théorique & pratique 2025)[cite: 1], PMP / Prince2 (Bases théoriques)[cite: 1], EBIOS RM[cite: 1].
 
-Travaux pratiques et professionnels autour de l'identification, de la priorisation et de la remédiation des vulnérabilités.
-
-### Technologies
-
-`OpenVAS` · `Greenbone` · `Nessus` · `Linux` · `Windows`
-
-Lors d'une expérience professionnelle, j'ai contribué à la gestion des vulnérabilités sur un parc de **80 machines**, avec une réduction d'environ **30 % du délai de remédiation**.
-
-🔗 **[Voir le laboratoire](#)**
-
----
-
-##  SOC & Security Monitoring
-
-Travaux pratiques autour de la supervision et de la détection d'événements de sécurité.
-
-### Outils
-
-`Wazuh` · `Splunk` · `PRTG`
-
-Domaines abordés :
-
-* Monitoring sécurité
-* Analyse de logs
-* Détection d'événements
-* Investigation
-* Supervision réseau
-* Windows / Linux
-
-🔗 **[Voir le projet SOC](#)**
-
----
-
-## 🧪 Offensive Security Labs
-
-Travaux pratiques en cybersécurité offensive :
-
-* Grey-box penetration testing
-* Network Security
-* Active Directory
-* Linux / Windows
-* Vulnerability Assessment
-* Authentication
-* Server Hardening
-
-### Plateformes de pratique
-
-**TryHackMe · Hack The Box · Root-Me**
-
-🔗 **[Voir mes labs](#)**
-
----
-
-# 📋 GRC · Audit SI · Gestion des risques
-
-Mon expérience technique est aujourd'hui complétée par une orientation forte vers la **gouvernance et la gestion des risques cyber**.
-
-## 🏢 Auditeur IT Junior — Wafacash Central Africa
-
-### Analyse de risques
-
-* **EBIOS Risk Manager**
-* Analyse des risques réseau
-* Environnements multi-agences
-* Identification des menaces et risques
-
-### Audit & conformité
-
-* **ISO 27001**
-* **ISO 27005**
-* Contrôles de sécurité
-* Collecte d'éléments probants
-* Évaluation de conformité
-
-### Pilotage sécurité
-
-* Mécanismes de monitoring
-* SMSI
-* KPI de sécurité
-* Tableaux de bord
-* Reporting destiné au management
-
-Cette expérience m'a permis de développer une vision de la cybersécurité qui ne se limite pas à la technologie, mais intègre également **le risque, la conformité, la gouvernance et les enjeux métier**.
-
----
-
-# 🧰 Stack technique
-
-### 🔐 Cybersecurity
-
-`OSINT` `Pentesting` `Vulnerability Management` `SOC` `SIEM` `Hardening`
-
-### 📋 GRC & Risk
-
-`EBIOS RM` `ISO 27001` `ISO 27002` `GRC` `IT Audit` `Security Governance` `TPRM` `NIS2`
-
-### 🌐 Infrastructure
-
-`TCP/IP` `LAN/WAN` `Windows Server` `Linux` `Active Directory` `FortiGate`
-
-### 🛡️ Security Tools
-
-`OpenVAS` `Greenbone` `Nessus` `Wazuh` `Splunk` `PRTG` `VMware`
-
-### ⚙️ Development & Automation
-
-`Python` `PowerShell` `Bash` `Docker`
-
----
-
-# 🧠 Ma manière d'aborder la cybersécurité
-
-```text
-                    ┌──────────────────────┐
-                    │        MÉTIER        │
-                    │                      │
-                    │ Impact · Stratégie   │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │        RISQUE        │
-                    │                      │
-                    │ Menaces · Contrôles  │
-                    │ GRC · Conformité     │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      TECHNOLOGIE     │
-                    │                      │
-                    │ Réseaux · Systèmes   │
-                    │ Sécurité · Outils    │
-                    └──────────────────────┘
-```
-
-### **Comprendre → Analyser → Évaluer → Communiquer → Sécuriser**
-
-Je cherche à faire le lien entre la réalité technique d'un SI et les enjeux de **risque, de conformité et de gouvernance** qui en découlent.
-
----
-
-#  Formation
-
-### Université de Technologie de Troyes — UTT
-
-**Mastère Spécialisé® Audit de la Sécurité des SI**
-
-📅 Septembre 2026
-💼 Alternance — 12 mois
-🔄 3 semaines entreprise / 1 semaine école
-
-### Institut UCAC-ICAM
-
-**Diplôme d'ingénieur — Informatique**
-
-Spécialisation :
-
-**Réseau & Cybersécurité**
-
----
-
-### Icam Nantes 🇫🇷
-
-Dernier semestre / projet de fin d'études :
-
-**OSINT · Cyber Intelligence · Data Correlation · AI-assisted Investigation**
 
 ---
 
 
 
+## 💼 Expériences professionnelles
+
+
+### Ingénieur chercheur en cybersécurité — ICAM Nantes
+*Janvier 2026 – Juin 2026*
+
+
+**Réalisations :**
+- Conception et orchestration d'une plateforme OSINT multi-sources intégrant +7 outils dédiés
+- Développement d'un dashboard interactif d'analyse de données alimenté par l'IA (filtres avancés, visualisation de données)
+- Déploiement et sécurisation de l'infrastructure (Docker, Cloud, monitoring, MFA/2FA, chiffrement, IAM, logging)
+
+
+**Impacts clés :**
+- Optimisation globale des méthodes de veille et de recherche en cybersécurité (offensive et défensive)
+- Sensibilisation et montée en compétences de plus de 100 étudiants sur les enjeux OSINT
+
+
+**Compétences :** OSINT · Analyse de données · IA appliquée à la cybersécurité · Orchestration d'outils · Docker · Dashboarding · IAM · MFA/2FA · Cloud · Monitoring
+
+
+### Assistant Sécurité SI — Wafacash Central Africa
+*Août 2024 – Janvier 2025*
+
+
+**Réalisations :**
+- Conduite d'analyses de risques multisites via la méthode EBIOS RM sur l'ensemble du réseau d'agences
+- Identification des écarts et rédaction des plans d'amélioration pour la mise à jour de la PSSI
+- Déploiement de dispositifs de surveillance, de contrôle de conformité des systèmes et de reporting pour la direction
+- Copilotage du projet de mise à jour du SI sur 8 serveurs (150+ postes impactés)
+
+
+**Impacts clés :**
+- Modernisation des outils métiers et réduction des délais de traitement opérationnels
+- Priorisation des actions de sécurisation et renforcement de la conformité globale du SI
+
+
+**Compétences :** EBIOS RM · Analyse de risques IT · Risk Management · Audit SI · GRC · Conformité SSI · Gap Analysis · PSSI · KPI & Reporting · Pilotage de projet
+
+
+### Ingénieur cybersécurité junior — Wise Computers
+*Janvier 2024 – Mars 2024*
+
+
+**Réalisations :**
+- Déploiement et administration d'un dashboard OpenVAS pour la gestion des vulnérabilités d'un parc de 80 machines
+- Réalisation de tests d'intrusion (boîte grise) et correction directe des vulnérabilités
+- Surveillance des événements, analyse des alertes, détection et réponse aux incidents en tant que SOC Analyst
+- Création de KPI de sécurité, actualisation des procédures et animation d'ateliers de sensibilisation
+
+
+**Impacts clés :**
+- Réduction de 30 % du délai moyen de remédiation des vulnérabilités (passage de 5 à 2 jours)
+- Élimination des vulnérabilités critiques du parc informatique
+
+
+**Compétences :** Vulnerability Management · Threat Intelligence · OpenVAS/Greenbone · Pentest Grey Box · Audit SSI · SOC · Security Monitoring · Incident Response · Remédiation · KPI de sécurité · Sensibilisation cybersécurité
+
+
+### Assistance support — Numtek
+*Avril 2023 – Juin 2023*
+
+
+**Réalisations :**
+- Assistance support informatique auprès des utilisateurs
+- Mise en place d'un Active Directory pour l'authentification des employés
+- Déploiement d'un serveur de fichiers ainsi qu'un portail captif pour l'authentification des employés
+
+
+**Compétences :** Active Directory · Support informatique · Serveur de fichiers · Portail captif
+
+
 ---
 
-# 📚 Certifications & Continuous Learning
+## 🚀 Projets académiques et annexes
 
-Je développe continuellement mes compétences à travers :
 
-* TryHackMe
-* Hack The Box
-* Root-Me
-* EBIOS Risk Manager
-* Labs réseaux & systèmes
-* Investigations OSINT
+
+### Wi_Grow — agriculture connectée au Cameroun
+*IoT · drones · IA · vision par ordinateur*
+
+
+*Plateforme d'orchestration OSINT multi-sources avec évaluation automatisée de la fiabilité (ICG)*
+*-**Périmètre :** Projet de fin d'études à l'Icam Nantes visant à centraliser et corréler les données d'investigation (Email, IP, Domaine, Nom d'utilisateur)[cite: 1].
+*- **Score ICG (Indice de Confiance Global) :** Algorithme de scoring de la fiabilité de l'information s'appuyant sur les normes **STANAG 2022** et la grille de qualité de données **Wang & Strong** (Exactitude, Complétude, Cohérence, Fraîcheur).
+*- **Stack :** Python, Docker, IA, Dashboarding, OSINT Frameworks[cite: 1].
+
+Projet présenté au salon ETSIA (Évolution Technologique et Stratégique de l'Informatique en Afrique). 
+
+
+[Voir le projet](https://VOTRE-LIEN)
+
+
+### Projet d'annuaire et Supervision
+
+
+Mise en place et supervision d'une architecture d'annuaire reposant sur **Active Directory** :
+- Installation d'un contrôleur sous **Windows Server**
+- Création des **GPO**
+- Supervision des serveurs à l'aide de **Centreon**
+- Mise en place d'un **réseau MPLS multisites**
+
+
+### YANSNET — Architecture Réseau & Infra Applicative
+
+
+Conception de l'infrastructure système, réseau et télécom destinée à supporter un réseau social étudiant. Ingénierie de l'interconnexion sécurisée entre les cités universitaires et le campus principal.
+
+
+---
+## Compétences globales
+
+
+| Domaine | Détail |
+| --- | --- |
+| **Audit & GRC** | Audit SI, EBIOS RM, Risk Management, Analyse de risques IT, ISO 27001 / 27002 / 27005, NIS2, TPRM, Gap Analysis, PSSI, Conformité SSI, gouvernance de la sécurité, KPI & Reporting, Pilotage de projet |
+| **Sécurité offensive & opérationnelle** | SOC, SIEM, Security Monitoring, Incident Response, Vulnerability Management, Remédiation, Pentest Grey Box, Threat Intelligence, durcissement, OSINT |
+| **Cybersécurité appliquée / IA & Data** | IA appliquée à la cybersécurité, Analyse de données, Dashboarding, Orchestration d'outils, IAM, MFA/2FA |
+| **Infrastructure & Systèmes** | TCP/IP, LAN/WAN, Windows Server, Linux, Active Directory, FortiGate, VMware, Cloud, Docker, Monitoring |
+| **Outils & Automatisation** | Python, PowerShell, Bash, OpenVAS/Greenbone, Centreon |
+| **Sensibilisation & pédagogie** | Animation d'ateliers de sensibilisation, formation d'étudiants aux enjeux OSINT |
 
 
 ---
 
-# 🌍 Au-delà de la cybersécurité
 
-## 🎧 DJing & Music
 
-Je développe également des projets autour de la musique et de l'événementiel, avec notamment une réflexion autour d'une **plateforme de mise en relation entre DJs, clients et organisateurs d'événements**.
+## 🎓 Objectifs et certifications
 
-##  Entrepreneuriat
 
-J'aime transformer une idée en **prototype concret**, tester rapidement une solution et réfléchir à son potentiel réel.
+**Certifications :**
+- Fortinet Certified Associate
+- Fortinet Certified Fundamentals
+- CCNA
+- Cisco Junior Cybersecurity Analyst
+- Six Sigma Yellow Belt
+- Scrum Fundamental Certification
+- Prince2
 
-## Technologie & Afrique
-
-Plusieurs de mes projets cherchent à appliquer la technologie à des problématiques concrètes dans des contextes africains, notamment dans :
-
-**Cybersécurité · Agriculture · Digitalisation · Services**
-
----
-
-# 📂 Explorer mon portfolio
-
-| Domaine             | Projet                       |
-| ------------------- | ---------------------------- |
-|    OSINT            | OSINT Investigation Platform |
-|    Cybersecurity    | Vulnerability Management     |
-|    SOC              | Security Monitoring Lab      |
-|    Pentest          | Offensive Security Labs      |
-|    GRC              | Risk Analysis / IT Audit     |
-|    AI / IoT         | Wi_Grow                      |
-|    Entrepreneurship | DJ & Event Marketplace       |
-
-👉 **[Explorer tous mes repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
 
 ---
 
-# 🤝 Me contacter
+## 🌍 Au-delà de la Cybersécurité
 
-Je suis particulièrement intéressé par les opportunités en :
-
-**IT Audit · Cybersecurity Audit · GRC · Risk Management · Security Governance · RSSI · SOC · Security Engineering**
-
-📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:olsenick.mbekal@gmail.com)
-💼 **LinkedIn :** [Mon profil LinkedIn](#)
-🌐 **Portfolio :** [Mon portfolio](#)
-🐙 **GitHub :** [Mes repositories](https://github.com/YOUR_USERNAME)
+* **🎧 DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
+* **🚀 Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques)[cite: 1].
 
 ---
 
-> ### *« La cybersécurité ne consiste pas uniquement à protéger des systèmes. Elle consiste à comprendre ce qui compte, identifier ce qui peut mal tourner et permettre de prendre de meilleures décisions. »*
+## 🤝 Contact
 
----
+Recherche active d'une **alternance de 12 mois dès Septembre 2026**[cite: 1] sur les postes :
+**Auditeur SSI Junior · Assistant RSSI · Assistant Chef de Projet Sécurité / GRC · Analyste Risk Management**[cite: 1]
 
-<a name="-english"></a>
+* 📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)[cite: 1]
+* 📱 **Téléphone :** +33 7 54 75 97 52[cite: 1]
+* 💼 **LinkedIn :** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)[cite: 1]
+
+
 
 # 🇬🇧 English
 
-## 👨🏾‍💻 About Me
+ Jules Oscar Mbekal
 
-I am a **Computer Science Engineer specialized in Network & Cybersecurity**, graduated from **Institut UCAC-ICAM**, with my final semester completed at **Icam Nantes, France**.
+**Network & Cybersecurity Engineer | Cybersecurity Analysis · IT Audit · GRC · IT Governance · Risk Management**
 
-My background combines a strong **technical cybersecurity foundation** networking, systems, SOC, vulnerability management, penetration testing and hardening with a growing focus on **GRC, IT audit, cybersecurity risk management and security governance**.
+🇬🇧 English   |   🇫🇷 [Version française](README.md)
 
-🎓 Starting September 2026, I will pursue the **Mastère Spécialisé® in Information Systems Security Auditing at Université de Technologie de Troyes (UTT)**.
-
-💼 I am looking for a **12 month apprenticeship** in:
-
-*  IT & Cybersecurity Audit
-* 📋 GRC — Governance, Risk & Compliance
-* 🛡️ Cybersecurity Risk Management
-* 🏛️ Information Security Governance
-* 👔 CISO / Security Management
-* 🔗 Third-Party Risk Management
-* 🚨 SOC & Security Monitoring
-* 🔍 OSINT & Cyber Intelligence
-
-> **My approach: understand the technology, identify the risks, assess their impact, and turn technical findings into actionable security decisions.**
+💼 **Looking for a 12-month apprenticeship** (starting September 2026) | Schedule: 3 weeks at the company / 1 week at school
+[Email](mailto:Olsenick.mbekal@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
 ---
 
-## Areas of Expertise
+## 🎯 About me
 
-|  Cybersecurity           |  GRC & Risk         | Infrastructure |
-| ------------------------ | ------------------- | ----------------- |
-| OSINT                    | IT Audit            | Networking        |
-| Pentesting               | EBIOS Risk Manager  | TCP/IP            |
-| Vulnerability Management | ISO 27001 / 27002   | Windows / Linux   |
-| SOC / SIEM               | Risk Management     | Active Directory  |
-| Hardening                | Security Governance | LAN / WAN         |
-| Threat Investigation     | Compliance          | FortiGate         |
+I'm a computer science engineer specializing in Network & Cybersecurity, graduated from ICAM.
+My background combines a technical approach to cybersecurity — networks, systems, SOC, vulnerability management, pentesting and hardening — with a growing focus on **GRC, IT audit, risk management and security governance**.
 
----
+My view of cybersecurity rests on three inseparable dimensions:
 
-#  Featured Projects
+             ┌─────────────────────┐
+             │       BUSINESS      │
+             │  Impact · Strategy  │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │         RISK        │
+             │ Threats · Controls  │
+             │   Compliance · GRC  │
+             └──────────┬──────────┘
+                        │
+                        ▼
+             ┌─────────────────────┐
+             │      TECHNOLOGY     │
+             │ Networks · Systems  │
+             │   Security · SOC    │
+             └──────────┬──────────┘
 
-##  OSINT Investigation & Cyber Intelligence Platform
-
-### Centralized multi-source OSINT investigation platform
-
-End-of-studies project developed at **Icam Nantes**.
-
-The objective is to build a centralized platform that aggregates and correlates multiple OSINT sources to support cybersecurity investigations.
-
-### Key Features
-
-* 🔍 Search by **email, IP, domain and username**
-* 🌐 Multi-source OSINT orchestration
-* 🔗 Cross-source correlation
-* 🧠 AI-assisted analysis
-* 📊 Interactive dashboard
-* 🛡️ Security risk identification
-* 📈 Automated information reliability assessment
-* 🔐 Privacy & GDPR considerations
-
-###  ICG — Global Confidence Index
-
-I designed a reliability-scoring approach to assess the level of confidence that can be placed in collected information.
-
-The methodology explores concepts from:
-
-* **STANAG 2022** — reliability & credibility
-* **Wang & Strong** — data quality
-* Accuracy
-* Completeness
-* Consistency
-* Timeliness
-* Source reliability
-
-🔗 **[View Project](#)**
-📚 **[Documentation](#)**
-🖥️ **[Live Demo](#)**
+My goal: **Understand the technical $\rightarrow$ Identify the risk $\rightarrow$ Communicate the business impact $\rightarrow$ Recommend the right controls.**
 
 ---
 
-## 🌱 Wi_Grow Smart Realization
+## Languages
 
-### IoT · Drones · AI · Computer Vision · Smart Agriculture
-
-A technology project designed to support agricultural monitoring in Cameroon.
-
-The platform combines:
-
-* 🌡️ Temperature monitoring
-* 💧 Soil & humidity data
-* ☀️ Environmental data
-* 🧪 Soil nutrients & acidity
-* 🚁 Drone imagery
-* 🤖 AI-assisted crop analysis
-* 🌽 Disease & pest detection
-* 📊 Farmer-oriented dashboard
-
-🏆 **1st Prize — Public Speaking Competition**
-
-The project was presented at the **"Évolution Technologique et Stratégique de l'Informatique en Afrique" (ETSIA)** technology event.
-
-🔗 **[View Project](#)**
-🎤 **[ETSIA Presentation](#)**
+- **French** — native
+- **English** — C1 level, [TOEIC 905/990](https://www.ets.org/toeic.html)
 
 ---
 
-#  Cybersecurity Projects
+## 🎓 Education & Certifications
 
-##  Vulnerability Management
+- **2026 → Mastère Spécialisé® in Information Systems Security Auditing** — Université de Technologie de Troyes (UTT), apprenticeship
+- **Engineering degree in Computer Science, specialization Network & Cybersecurity (Bac+5)** — Institut UCAC-ICAM (Cameroon), 09/2021 - 07/2026; final semester and end-of-studies project at Icam Nantes
+- **Continuous learning**: TryHackMe, Hack The Box, Root-Me
 
-Practical and professional work focused on vulnerability identification, prioritization and remediation.
-
-### Technologies
-
-`OpenVAS` · `Greenbone` · `Nessus` · `Linux` · `Windows`
-
-During a professional experience, I contributed to vulnerability management across an **80-machine fleet**, helping reduce remediation time by approximately **30%**.
-
-🔗 **[View Lab](#)**
+### Certifications
+* **Obtained:** Fortinet Certified Associate (FCA), Fortinet Certified Fundamentals (FCF), CCNA, Cisco Junior Cybersecurity Analyst, Six Sigma Yellow Belt, Scrum Fundamental.
+* **In progress / preparation:** Certified Ethical Hacker v13 (CEHv13 — theoretical & practical training, 2025), PMP / Prince2 (theoretical foundations), EBIOS RM.
 
 ---
 
-## 🚨 SOC & Security Monitoring
+## 💼 Professional experience
 
-Hands-on work focused on security monitoring and event detection.
+### Cybersecurity Research Engineer — ICAM Nantes
+*January 2026 – June 2026*
 
-### Tools
+**Achievements:**
+- Designed and orchestrated a multi-source OSINT platform integrating +7 dedicated tools
+- Built an interactive, AI-powered data analysis dashboard (advanced filters, data visualization)
+- Deployed and secured the infrastructure (Docker, Cloud, monitoring, MFA/2FA, encryption, IAM, logging)
 
-`Wazuh` · `Splunk` · `PRTG`
+**Key impact:**
+- Overall improvement of cybersecurity monitoring and research methods (offensive and defensive)
+- Raised awareness and upskilled more than 100 students on OSINT topics
 
-Topics covered:
+**Skills:** OSINT · Data analysis · AI applied to cybersecurity · Tool orchestration · Docker · Dashboarding · IAM · MFA/2FA · Cloud · Monitoring
 
-* Security monitoring
-* Log analysis
-* Event detection
-* Investigation
-* Network monitoring
-* Windows / Linux
+### IT Security Assistant — Wafacash Central Africa
+*August 2024 – January 2025*
 
-🔗 **[View SOC Lab](#)**
+**Achievements:**
+- Conducted multi-site risk analyses using the EBIOS RM method across the entire branch network
+- Identified gaps and drafted improvement plans to update the PSSI (security policy)
+- Deployed monitoring, system compliance controls and management reporting
+- Co-led an SI update project across 8 servers (150+ workstations impacted)
 
----
+**Key impact:**
+- Modernized business tools and reduced operational processing times
+- Prioritized security actions and strengthened overall SI compliance
 
-##  Offensive Security Labs
+**Skills:** EBIOS RM · IT risk analysis · Risk management · IT audit · GRC · Security compliance · Gap analysis · PSSI · KPIs & reporting · Project management
 
-Hands-on cybersecurity work covering:
+### Junior Cybersecurity Engineer — Wise Computers
+*January 2024 – March 2024*
 
-* Grey-box penetration testing
-* Network security
-* Active Directory
-* Linux / Windows
-* Vulnerability assessment
-* Authentication mechanisms
-* Server hardening
+**Achievements:**
+- Deployed and administered an OpenVAS dashboard for vulnerability management across an 80-machine fleet
+- Carried out grey-box penetration tests and directly remediated vulnerabilities
+- Monitored events, analyzed alerts, and handled incident detection and response as a SOC Analyst
+- Created security KPIs, updated procedures and led awareness workshops
 
-### Practice Platforms
+**Key impact:**
+- Reduced average vulnerability remediation time by 30% (from 5 to 2 days)
+- Eliminated critical vulnerabilities across the IT fleet
 
-**TryHackMe · Hack The Box · Root-Me**
+**Skills:** Vulnerability management · Threat intelligence · OpenVAS/Greenbone · Grey-box pentesting · IT security audit · SOC · Security monitoring · Incident response · Remediation · Security KPIs · Cybersecurity awareness
 
-🔗 **[View Security Labs](#)**
+### IT Support Assistant — Numtek
+*April 2023 – June 2023*
 
----
+**Achievements:**
+- End-user IT support assistance
+- Set up an Active Directory for employee authentication
+- Deployed a file server and a captive portal for employee authentication
 
-# GRC · IT Audit · Risk Management
-
-My technical cybersecurity background is increasingly complemented by a strong focus on **governance and cyber risk management**.
-
-##  Junior IT Auditor — Wafacash Central Africa
-
-### Risk Analysis
-
-* **EBIOS Risk Manager**
-* Network risk analysis
-* Multi-agency environments
-* Threat and risk identification
-
-### Audit & Compliance
-
-* **ISO 27001**
-* **ISO 27005**
-* Security controls
-* Audit evidence
-* Compliance assessment
-
-### Security Management
-
-* Security monitoring mechanisms
-* ISMS
-* Security KPIs
-* Dashboards
-* Management reporting
-
-This experience strengthened my interest in cybersecurity as a discipline connecting **technology, risk, compliance, governance and business objectives**.
+**Skills:** Active Directory · IT support · File server · Captive portal
 
 ---
 
-#  Technical Stack
+## 🚀 Academic & side projects
 
-### Cybersecurity
+### Wi_Grow — connected agriculture in Cameroon
+*IoT · drones · AI · computer vision*
 
-`OSINT` `Pentesting` `Vulnerability Management` `SOC` `SIEM` `Hardening`
+*Multi-source OSINT orchestration platform with automated reliability scoring (ICG)*
+- **Scope:** End-of-studies project at Icam Nantes aiming to centralize and correlate investigation data (email, IP, domain, username).
+- **ICG Score (Global Confidence Index):** A scoring algorithm for information reliability based on the **STANAG 2022** standard and the **Wang & Strong** data-quality framework (Accuracy, Completeness, Consistency, Timeliness).
+- **Stack:** Python, Docker, AI, Dashboarding, OSINT Frameworks.
 
-### 📋 GRC & Risk
+Presented at the ETSIA event (Évolution Technologique et Stratégique de l'Informatique en Afrique).
 
-`EBIOS RM` `ISO 27001` `ISO 27002` `GRC` `IT Audit` `Security Governance` `TPRM` `NIS2`
+[View project](https://YOUR-LINK)
 
-### 🌐 Infrastructure
+### Directory Services and Monitoring Project
 
-`TCP/IP` `LAN/WAN` `Windows Server` `Linux` `Active Directory` `FortiGate`
+Set up and monitored a directory architecture based on **Active Directory**:
+- Installed a domain controller on **Windows Server**
+- Created **GPOs**
+- Monitored servers using **Centreon**
+- Set up a **multi-site MPLS network**
 
-### 🛡️ Security Tools
+### YANSNET — Network Architecture & Application Infrastructure
 
-`OpenVAS` `Greenbone` `Nessus` `Wazuh` `Splunk` `PRTG` `VMware`
-
-### ⚙️ Development & Automation
-
-`Python` `PowerShell` `Bash` `Docker`
-
----
-
-# 🧠 My Cybersecurity Approach
-
-```text
-                    ┌──────────────────────┐
-                    │       BUSINESS       │
-                    │                      │
-                    │ Impact · Strategy    │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │         RISK         │
-                    │                      │
-                    │ Threats · Controls   │
-                    │ GRC · Compliance     │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │      TECHNOLOGY      │
-                    │                      │
-                    │ Networks · Systems   │
-                    │ Security · Tools     │
-                    └──────────────────────┘
-```
-
-### **Understand → Analyze → Assess → Communicate → Secure**
-
-I aim to bridge the gap between the **technical reality of an information system** and the **risk, compliance and governance decisions** surrounding it.
+Designed the system, network and telecom infrastructure to support a student social network. Engineered the secure interconnection between university residences and the main campus.
 
 ---
 
-# 🎓 Education
+## Overall skills
 
-### Institut UCAC-ICAM
-
-**Engineering Degree — Computer Science**
-
-Specialization:
-
-**Network & Cybersecurity**
-
----
-
-### Icam Nantes 🇫🇷
-
-Final semester / end-of-studies project:
-
-**OSINT · Cyber Intelligence · Data Correlation · AI-assisted Investigation**
+| Area | Detail |
+| --- | --- |
+| **Audit & GRC** | IT audit, EBIOS RM, Risk management, IT risk analysis, ISO 27001 / 27002 / 27005, NIS2, TPRM, Gap analysis, PSSI, Security compliance, security governance, KPIs & reporting, project management |
+| **Offensive & operational security** | SOC, SIEM, Security monitoring, Incident response, Vulnerability management, Remediation, Grey-box pentesting, Threat intelligence, hardening, OSINT |
+| **Applied cybersecurity / AI & Data** | AI applied to cybersecurity, Data analysis, Dashboarding, Tool orchestration, IAM, MFA/2FA |
+| **Infrastructure & Systems** | TCP/IP, LAN/WAN, Windows Server, Linux, Active Directory, FortiGate, VMware, Cloud, Docker, Monitoring |
+| **Tools & Automation** | Python, PowerShell, Bash, OpenVAS/Greenbone, Centreon |
+| **Awareness & training** | Running awareness workshops, training students on OSINT topics |
 
 ---
 
-### Université de Technologie de Troyes — UTT
+## 🎓 Goals and certifications
 
-**Mastère Spécialisé® — Information Systems Security Auditing**
-
-📅 September 2026
-💼 15-month apprenticeship
-🔄 3 weeks company / 1 week school
-
----
-
-# 📚 Certifications & Continuous Learning
-
-I continuously develop my skills through:
-
-* 🧪 TryHackMe
-* 🏴 Hack The Box
-* 🔴 Root-Me
-* 📖 ISO 27001 / 27002
-* 🛡️ EBIOS Risk Manager
-* 🌐 Network & infrastructure labs
-* 🔎 OSINT investigations
-
-🔗 **[Certifications & Training](#)**
+**Certifications:**
+- Fortinet Certified Associate
+- Fortinet Certified Fundamentals
+- CCNA
+- Cisco Junior Cybersecurity Analyst
+- Six Sigma Yellow Belt
+- Scrum Fundamental Certification
+- Prince2
 
 ---
 
-# 🌍 Beyond Cybersecurity
+## 🌍 Beyond cybersecurity
 
-## 🎧 DJing & Music
-
-I also develop projects around music and the event industry, including the concept of a **marketplace connecting DJs, clients and event organizers**.
-
-## 🚀 Entrepreneurship
-
-I enjoy turning ideas into **working prototypes**, testing solutions quickly and exploring how technology can solve real-world problems.
-
-## 🌍 Technology & Africa
-
-Several of my projects focus on applying technology to real-world challenges in African environments, particularly in:
-
-**Cybersecurity · Agriculture · Digital Services · Innovation**
+* **🎧 DJing & Event Tech:** Exploring tech solutions to simplify event organization and the artist/client relationship.
+* **🚀 Entrepreneurship & Tech in Africa:** Prototyping solutions suited to the continent's challenges (connected agriculture, cybersecurity, digital services).
 
 ---
 
-# 📂 Explore My Portfolio
+## 🤝 Contact
 
-| Domain              | Project                      |
-| ------------------- | ---------------------------- |
-| 🔎 OSINT            | OSINT Investigation Platform |
-| 🛡️ Cybersecurity   | Vulnerability Management     |
-| 🚨 SOC              | Security Monitoring Lab      |
-| 🧪 Pentesting       | Offensive Security Labs      |
-| 📋 GRC              | Risk Analysis / IT Audit     |
-| 🌱 AI / IoT         | Wi_Grow                      |
-| 🚀 Entrepreneurship | DJ & Event Marketplace       |
+Actively looking for a **12-month apprenticeship starting September 2026** for roles such as:
+**Junior IT Security Auditor · Assistant CISO · Assistant Security/GRC Project Manager · Risk Management Analyst**
 
-👉 **[Explore all my repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
+* 📧 **Email:** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
+* 📱 **Phone:** +33 7 54 75 97 52
+* 💼 **LinkedIn:** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
----
-
-# 🤝 Let's Connect
-
-I am particularly interested in opportunities involving:
-
-**IT Audit · Cybersecurity Audit · GRC · Risk Management · Security Governance · CISO · SOC · Security Engineering**
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
-💼 **LinkedIn:** [My LinkedIn Profile](#)
-🌐 **Portfolio:** [My Portfolio](#)
-🐙 **GitHub:** [My Repositories](https://github.com/YOUR_USERNAME)
-
----
 
 > ### *"Cybersecurity is not only about protecting systems. It is about understanding what matters, identifying what can go wrong, and enabling better decisions."*
 
