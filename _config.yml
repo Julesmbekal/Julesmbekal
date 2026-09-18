@@ -3,3 +3,271 @@ logo: img/MBEKAL-Jules-Oscar-X2026.jpg
 description : "Portfolio Cybersecurity Engineer"
 theme: jekyll-theme-midnight
 lang: fr, en
+
+{
+  "profile": {
+    "name": "Jules Oscar MBEKAL",
+    "photo": "img/MBEKAL-Jules-Oscar-X2026.jpg",
+    "title": {
+      "fr": "Ingénieur Réseau & Cybersécurité",
+      "en": "Network & Cybersecurity Engineer"
+    },
+    "tagline": {
+      "fr": "Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques",
+      "en": "Cybersecurity Analysis · IT Audit · GRC · IT Governance · Risk Management"
+    },
+    "welcomeMessage": {
+      "fr": "Bienvenue sur mon portfolio, je suis Jules Oscar MBEKAL, ingénieur cybersécurité. Bonne lecture.",
+      "en": "Welcome to my portfolio, I'm Jules Oscar MBEKAL, a cybersecurity engineer."
+    },
+    "contact": {
+      "email": "Olsenick.mbekal@gmail.com",
+      "phone": "+33 7 54 75 97 52",
+      "linkedin": "https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/"
+    },
+    "apprenticeshipSearch": {
+      "fr": "Recherche d'alternance de 12 mois (à partir de septembre 2026) — 3 semaines entreprise / 1 semaine école",
+      "en": "Looking for a 12-month apprenticeship (starting September 2026) — 3 weeks at the company / 1 week at school",
+      "targetRoles": {
+        "fr": ["Auditeur SSI Junior", "Assistant RSSI", "Assistant Chef de Projet Sécurité / GRC", "Analyste Risk Management"],
+        "en": ["Junior IT Security Auditor", "Assistant CISO", "Assistant Security/GRC Project Manager", "Risk Management Analyst"]
+      }
+    },
+    "about": {
+      "fr": "Mon parcours combine une approche technique de la cybersécurité — réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement — avec une orientation croissante vers la GRC, l'audit IT, la gestion des risques et la gouvernance de la sécurité.",
+      "en": "My background combines a technical approach to cybersecurity — networks, systems, SOC, vulnerability management, pentesting and hardening — with a growing focus on GRC, IT audit, risk management and security governance."
+    },
+    "philosophy": {
+      "layers": [
+        { "fr": "Business — Impact · Stratégie", "en": "Business — Impact · Strategy" },
+        { "fr": "Risques — Menaces · Contrôles · Conformité · GRC", "en": "Risk — Threats · Controls · Compliance · GRC" },
+        { "fr": "Technologie — Réseaux · Systèmes · Sécurité · SOC", "en": "Technology — Networks · Systems · Security · SOC" }
+      ],
+      "goal": {
+        "fr": "Comprendre la technique · Identifier le risque · Communiquer l'impact métier · Recommander les contrôles adaptés.",
+        "en": "Understand the technical · Identify the risk · Communicate the business impact · Recommend the right controls."
+      }
+    }
+  },
+
+  "languages": [
+    {
+      "name": { "fr": "Français", "en": "French" },
+      "level": { "fr": "Langue maternelle", "en": "Native" },
+      "certificate": null
+    },
+    {
+      "name": { "fr": "Anglais", "en": "English" },
+      "level": { "fr": "C1", "en": "C1" },
+      "certificate": {
+        "label": "TOEIC 905/990",
+        "issuer": "ETS",
+        "file": "TOEIC Oscar.pdf"
+        
+      }
+    }
+  ],
+
+  "education": [
+    {
+      "period": "2026 →",
+      "degree": {
+        "fr": "Mastère Spécialisé® Audit de la Sécurité des SI",
+        "en": "Mastère Spécialisé® in Information Systems Security Auditing"
+      },
+      "school": "Université de Technologie de Troyes (UTT)",
+      "mode": { "fr": "En alternance", "en": "Apprenticeship" }
+    },
+    {
+      "period": "09/2021 – 07/2026",
+      "degree": {
+        "fr": "Ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5)",
+        "en": "Engineering degree in Computer Science, specialization Network & Cybersecurity (Bac+5)"
+      },
+      "school": "ICAM"
+    }
+  ],
+
+  "continuousLearning": ["TryHackMe", "Hack The Box", "Root-Me"],
+
+  "certifications": {
+    "obtained": [
+      "Fortinet Certified Associate (FCA)",
+      "Fortinet Certified Fundamentals (FCF)",
+      "CCNA",
+      "Cisco Junior Cybersecurity Analyst",
+      "Six Sigma Yellow Belt",
+      "Scrum Fundamental Certification"
+    ],
+    "inProgress": [
+      { "fr": "Certified Ethical Hacker v13 (CEHv13) — formation théorique & pratique, 2025", "en": "Certified Ethical Hacker v13 (CEHv13) — theoretical & practical training, 2025" },
+      { "fr": "PMP / Prince2 (bases théoriques)", "en": "PMP / Prince2 (theoretical foundations)" },
+      "EBIOS RM"
+    ]
+  },
+
+  "experience": [
+    {
+      "id": "icam-nantes",
+      "role": { "fr": "Ingénieur chercheur en cybersécurité", "en": "Cybersecurity Research Engineer" },
+      "company": "ICAM Nantes",
+      "period": { "fr": "Janvier 2026 – Juin 2026", "en": "January 2026 – June 2026" },
+      "achievements": {
+        "fr": [
+          "Conception et orchestration d'une plateforme OSINT multi-sources intégrant +7 outils dédiés",
+          "Développement d'un dashboard interactif d'analyse de données alimenté par l'IA",
+          "Déploiement et sécurisation de l'infrastructure (Docker, Cloud, monitoring, MFA/2FA, chiffrement, IAM, logging)"
+        ],
+        "en": [
+          "Designed and orchestrated a multi-source OSINT platform integrating +7 dedicated tools",
+          "Built an interactive, AI-powered data analysis dashboard",
+          "Deployed and secured the infrastructure (Docker, Cloud, monitoring, MFA/2FA, encryption, IAM, logging)"
+        ]
+      },
+      "impact": {
+        "fr": ["Optimisation globale des méthodes de veille en cybersécurité", "Montée en compétences de plus de 100 étudiants sur les enjeux OSINT"],
+        "en": ["Overall improvement of cybersecurity monitoring methods", "Upskilled more than 100 students on OSINT topics"]
+      },
+      "skills": ["OSINT", "Analyse de données", "IA appliquée", "Docker", "Dashboarding", "IAM", "MFA/2FA", "Cloud", "Monitoring"]
+    },
+    {
+      "id": "wafacash",
+      "role": { "fr": "Assistant Sécurité SI", "en": "IT Security Assistant" },
+      "company": "Wafacash Central Africa",
+      "period": { "fr": "Août 2024 – Janvier 2025", "en": "August 2024 – January 2025" },
+      "achievements": {
+        "fr": [
+          "Conduite d'analyses de risques multisites via EBIOS RM sur l'ensemble du réseau d'agences",
+          "Identification des écarts et rédaction des plans d'amélioration pour la mise à jour de la PSSI",
+          "Déploiement de dispositifs de surveillance, de contrôle de conformité et de reporting pour la direction",
+          "Copilotage du projet de mise à jour du SI sur 8 serveurs (150+ postes impactés)"
+        ],
+        "en": [
+          "Conducted multi-site risk analyses using EBIOS RM across the entire branch network",
+          "Identified gaps and drafted improvement plans to update the PSSI",
+          "Deployed monitoring, compliance controls and management reporting",
+          "Co-led an IS update project across 8 servers (150+ workstations impacted)"
+        ]
+      },
+      "impact": {
+        "fr": ["Modernisation des outils métiers et réduction des délais de traitement", "Renforcement de la conformité globale du SI"],
+        "en": ["Modernized business tools and reduced processing times", "Strengthened overall IS compliance"]
+      },
+      "skills": ["EBIOS RM", "Risk Management", "Audit SI", "GRC", "PSSI", "Gap Analysis", "KPI & Reporting"]
+    },
+    {
+      "id": "wise-computers",
+      "role": { "fr": "Ingénieur cybersécurité junior", "en": "Junior Cybersecurity Engineer" },
+      "company": "Wise Computers",
+      "period": { "fr": "Janvier 2024 – Mars 2024", "en": "January 2024 – March 2024" },
+      "achievements": {
+        "fr": [
+          "Déploiement et administration d'un dashboard OpenVAS pour la gestion des vulnérabilités d'un parc de 80 machines",
+          "Réalisation de tests d'intrusion (boîte grise) et correction directe des vulnérabilités",
+          "Surveillance des événements, analyse des alertes, détection et réponse aux incidents (SOC Analyst)",
+          "Création de KPI de sécurité et animation d'ateliers de sensibilisation"
+        ],
+        "en": [
+          "Deployed and administered an OpenVAS dashboard for vulnerability management across an 80-machine fleet",
+          "Carried out grey-box penetration tests and directly remediated vulnerabilities",
+          "Monitored events and handled incident detection and response as a SOC Analyst",
+          "Created security KPIs and led awareness workshops"
+        ]
+      },
+      "impact": {
+        "fr": ["Réduction de 30 % du délai moyen de remédiation (5 à 2 jours)", "Élimination des vulnérabilités critiques du parc"],
+        "en": ["Reduced average remediation time by 30% (5 to 2 days)", "Eliminated critical vulnerabilities across the fleet"]
+      },
+      "skills": ["Vulnerability Management", "OpenVAS/Greenbone", "Pentest Grey Box", "SOC", "Incident Response"]
+    },
+    {
+      "id": "numtek",
+      "role": { "fr": "Assistance support", "en": "IT Support Assistant" },
+      "company": "Numtek",
+      "period": { "fr": "Avril 2023 – Juin 2023", "en": "April 2023 – June 2023" },
+      "achievements": {
+        "fr": ["Assistance support informatique auprès des utilisateurs", "Mise en place d'un Active Directory", "Déploiement d'un serveur de fichiers et d'un portail captif"],
+        "en": ["End-user IT support assistance", "Set up an Active Directory", "Deployed a file server and a captive portal"]
+      },
+      "skills": ["Active Directory", "Support informatique", "Serveur de fichiers"]
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "osint-platform",
+      "title": "OSINT Investigation & Cyber Intelligence Platform",
+      "subtitle": {
+        "fr": "Plateforme d'orchestration OSINT multi-sources avec évaluation automatisée de la fiabilité (ICG)",
+        "en": "Multi-source OSINT orchestration platform with automated reliability scoring (ICG)"
+      },
+      "description": {
+        "fr": "Projet de fin d'études à l'Icam Nantes visant à centraliser et corréler les données d'investigation (email, IP, domaine, nom d'utilisateur). Score ICG (Indice de Confiance Global) : algorithme de scoring de fiabilité basé sur STANAG 2022 et la grille Wang & Strong (exactitude, complétude, cohérence, fraîcheur).",
+        "en": "End-of-studies project at Icam Nantes to centralize and correlate investigation data (email, IP, domain, username). ICG Score (Global Confidence Index): reliability scoring algorithm based on STANAG 2022 and the Wang & Strong data-quality framework."
+      },
+      "tags": ["Python", "Docker", "IA", "Dashboarding", "OSINT Frameworks"],
+      "link": "https://VOTRE-LIEN",
+      "presentation": null
+    },
+    {
+      "id": "wi_grow",
+      "title": "Wi_Grow",
+      "subtitle": {
+        "fr": "Agriculture connectée au Cameroun — IoT · drones · IA · vision par ordinateur",
+        "en": "Connected agriculture in Cameroon — IoT · drones · AI · computer vision"
+      },
+      "description": {
+        "fr": "Plateforme technologique de suivi agricole combinant capteurs sol, imagerie drone et détection IA de maladies/nuisibles. 1er prix du concours d'éloquence, présenté au salon ETSIA.",
+        "en": "Agricultural monitoring platform combining soil sensors, drone imagery and AI-based disease/pest detection. 1st Prize at the public speaking competition, presented at the ETSIA event."
+      },
+      "tags": ["IoT", "Drones", "IA", "Computer Vision"],
+      "presentation": {
+        "type": "pptx",
+        "file": "WI_grow.pdf",
+        "embedPdfFallback": "WI_grow.pdf",
+        "embedViewer": true
+      }
+    },
+    {
+      "id": "annuaire-supervision",
+      "title": { "fr": "Projet d'annuaire et supervision", "en": "Directory Services and Monitoring Project" },
+      "description": {
+        "fr": "Mise en place et supervision d'une architecture d'annuaire Active Directory : contrôleur Windows Server, GPO, supervision Centreon, réseau MPLS multisites.",
+        "en": "Set up and monitored an Active Directory architecture: Windows Server domain controller, GPOs, Centreon monitoring, multi-site MPLS network."
+      },
+      "tags": ["Active Directory", "Windows Server", "Centreon", "MPLS"],
+      "link": null,
+      "presentation": null
+    },
+    {
+      "id": "yansnet",
+      "title": "YANSNET",
+      "subtitle": { "fr": "Architecture Réseau & Infra Applicative", "en": "Network Architecture & Application Infrastructure" },
+      "description": {
+        "fr": "Conception de l'infrastructure système, réseau et télécom pour un réseau social étudiant, avec interconnexion sécurisée entre cités universitaires et campus principal.",
+        "en": "Designed the system, network and telecom infrastructure for a student social network, with secure interconnection between university residences and the main campus."
+      },
+      "tags": ["Réseau", "Télécom", "Infrastructure"],
+      
+    }
+  ],
+
+  "skills": {
+    "Audit & GRC": ["Audit SI", "EBIOS RM", "Risk Management", "ISO 27001", "ISO 27002", "ISO 27005", "NIS2", "TPRM", "Gap Analysis", "PSSI", "Conformité SSI", "Gouvernance sécurité", "KPI & Reporting"],
+    "Sécurité offensive & opérationnelle": ["SOC", "SIEM", "Security Monitoring", "Incident Response", "Vulnerability Management", "Pentest Grey Box", "Threat Intelligence", "Hardening", "OSINT"],
+    "IA & Data": ["IA appliquée à la cybersécurité", "Analyse de données", "Dashboarding", "Orchestration d'outils", "IAM", "MFA/2FA"],
+    "Infrastructure & Systèmes": ["TCP/IP", "LAN/WAN", "Windows Server", "Linux", "Active Directory", "FortiGate", "VMware", "Cloud", "Docker", "Monitoring"],
+    "Outils & Automatisation": ["Python", "PowerShell", "Bash", "OpenVAS/Greenbone", "Centreon"]
+  },
+
+  "beyondCybersecurity": [
+    {
+      "fr": "DJing & Event Tech — Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.",
+      "en": "DJing & Event Tech — Exploring tech solutions to simplify event organization and the artist/client relationship."
+    },
+    {
+      "fr": "Entrepreneuriat & Tech en Afrique — Prototypage de solutions adaptées aux enjeux du continent.",
+      "en": "Entrepreneurship & Tech in Africa — Prototyping solutions suited to the continent's challenges."
+    }
+  ]
+}
