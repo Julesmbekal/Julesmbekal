@@ -2,13 +2,14 @@
 
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
+[Email](mailto:Olsenick.mbekal@gmail.com)      |   [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
+
 > 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
 
 🇫🇷 Français
 
 💼 **Recherche d'alternance de 12 mois** (à partir de Septembre 2026) | Rythme : 3 semaines entreprise / 1 semaine école
-[Email](mailto:Olsenick.mbekal@gmail.com) 
-[LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
+
 
 ---
 ## 🎯 À propos de moi
@@ -40,7 +41,7 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
              └──────────┬──────────┘
 
 
-Mon objectif : **Comprendre la technique $\rightarrow$ Identifier le risque $\rightarrow$ Communiquer l'impact métier $\rightarrow$ Recommander les contrôles adaptés.**
+Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · l'impact métier · Recommander les contrôles adaptés.**
 
 ---
 
@@ -55,8 +56,8 @@ Mon objectif : **Comprendre la technique $\rightarrow$ Identifier le risque $\ri
 ---
 ## 🎓 Formation & Certifications
 
-- **2026 → Mastère Spécialisé® Audit de la Sécurité des SI** — Université de Technologie de Troyes (UTT), en alternance
-- **Diplôme d'ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5)** — Institut UCAC-ICAM (Cameroun), 09/2021 - 07/2026 ; dernier semestre et projet de fin d'études à l'Icam Nantes
+- **2026 → Mastère Spécialisé® Audit de la Sécurité des SI** - Université de Technologie de Troyes (UTT), en alternance
+- **Ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5)** —ICAM, 09/2021 - 07/2026 ;
 - **Apprentissage continu** : TryHackMe, Hack The Box, Root-Me
 
 ### Certifications
@@ -268,7 +269,7 @@ My view of cybersecurity rests on three inseparable dimensions:
              │   Security · SOC    │
              └──────────┬──────────┘
 
-My goal: **Understand the technical $\rightarrow$ Identify the risk $\rightarrow$ Communicate the business impact $\rightarrow$ Recommend the right controls.**
+My goal: **Understand the technical · Identify the risk ·  Communicate the business impact · Recommend the right controls.**
 
 ---
 
@@ -282,7 +283,7 @@ My goal: **Understand the technical $\rightarrow$ Identify the risk $\rightarrow
 ## 🎓 Education & Certifications
 
 - **2026 → Mastère Spécialisé® in Information Systems Security Auditing** — Université de Technologie de Troyes (UTT), apprenticeship
-- **Engineering degree in Computer Science, specialization Network & Cybersecurity (Bac+5)** — Institut UCAC-ICAM (Cameroon), 09/2021 - 07/2026; final semester and end-of-studies project at Icam Nantes
+- **Engineering in Computer Science, specialization Network & Cybersecurity (Bac+5)** —ICAM, 09/2021 - 07/2026;
 - **Continuous learning**: TryHackMe, Hack The Box, Root-Me
 
 ### Certifications
