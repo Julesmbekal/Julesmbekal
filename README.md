@@ -1,14 +1,8 @@
 # Jules Oscar MBEKAL
 
-### Ingénieur Réseau & Cybersécurité · GRC · Audit SI · Gestion des risques
+### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
 > 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
-
-# Jules Oscar Mbekal
-
-**Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques**
-
-🇫🇷 Français   |   🇬🇧 [English version](README.en.md)
 
 🇫🇷 Français
 
