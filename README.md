@@ -1,4 +1,4 @@
-# 👋 Jules Oscar Olsenick MBEKAL
+# Jules Oscar MBEKAL
 
 ### Ingénieur Réseau & Cybersécurité · GRC · Audit SI · Gestion des risques
 
@@ -8,32 +8,32 @@
 
 # 🇫🇷 Français
 
-## 👨🏾‍💻 À propos de moi
+##  À propos de moi
 
-Je suis **ingénieur en informatique spécialisé en Réseau & Cybersécurité**, diplômé de l'**Institut UCAC-ICAM**, avec un dernier semestre réalisé à **Icam Nantes**.
+Je suis **ingénieur en informatique spécialisé en Réseau & Cybersécurité**, diplômé de l'**ICAM**.
 
-Mon parcours combine une approche **technique** de la cybersécurité — réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement — avec une orientation croissante vers la **GRC, l'audit SI, la gestion des risques et la gouvernance de la sécurité**.
+Mon parcours combine une approche **technique opérationnelle** de la cybersécurité — réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement avec une orientation croissante vers la **GRC, l'audit SI, la gestion des risques et la gouvernance de la sécurité**.
 
-🎓 À partir de septembre 2026, je poursuis mon parcours dans le cadre du **Mastère Spécialisé® Audit de la Sécurité des SI à l'Université de Technologie de Troyes (UTT)**.
+   À partir de septembre 2026, je poursuis mon parcours dans le cadre du **Mastère Spécialisé® Audit de la Sécurité des SI à l'Université de Technologie de Troyes (UTT)**.
 
-💼 Je recherche une **alternance de 15 mois** dans les domaines suivants :
+ Je recherche une **alternance de 12 mois** dans les domaines suivants :
 
-* 🔎 Audit SI & Audit Cybersécurité
-* 📋 GRC — Gouvernance, Risques & Conformité
-* 🛡️ Gestion des risques cyber
-* 🏛️ Gouvernance de la sécurité
-* 👔 RSSI / Management de la sécurité
-* 🔗 TPRM — Third-Party Risk Management
-* 🚨 SOC & Security Monitoring
-* 🔍 OSINT & Cyber Intelligence
+*  Audit SI & Audit Cybersécurité
+* GRC — Gouvernance, Risques & Conformité
+* Gestion des risques cyber
+* Gouvernance de la sécurité
+* RSSI / Management de la sécurité
+* TPRM — Third-Party Risk Management
+* SOC & Security Monitoring
+* OSINT & Cyber Intelligence
 
-> **Ma philosophie : comprendre la technologie, identifier les risques, mesurer leurs impacts et transformer les constats techniques en décisions de sécurité concrètes.**
+> **Ma philosophie : comprendre la technologie, identifier les risques, mesurer leurs impacts et transformer les constats en décisions de sécurité concrètes.**
 
 ---
 
-## 🧭 Domaines d'expertise
+##  Domaines d'expertise
 
-| 🔐 Cybersécurité         | 📋 GRC & Risques    | 🌐 Infrastructure |
+|   Cybersécurité          |   GRC & Risques     |   Infrastructure  |
 | ------------------------ | ------------------- | ----------------- |
 | OSINT                    | IT Audit            | Réseaux           |
 | Pentest                  | EBIOS Risk Manager  | TCP/IP            |
@@ -44,7 +44,7 @@ Mon parcours combine une approche **technique** de la cybersécurité — résea
 
 ---
 
-# 🚀 Projets principaux
+#  Projets principaux
 
 ## 🔎 OSINT Investigation & Cyber Intelligence Platform
 
@@ -56,16 +56,16 @@ L'objectif est de concevoir une plateforme permettant de centraliser et corréle
 
 ### Fonctionnalités
 
-* 🔍 Recherche par **email, IP, domaine et username**
-* 🌐 Orchestration de plusieurs sources OSINT
-* 🔗 Corrélation des informations
-* 🧠 Analyse assistée par IA
-* 📊 Dashboard interactif
-* 🛡️ Identification des risques de sécurité
-* 📈 Évaluation automatique de la fiabilité des informations
-* 🔐 Prise en compte des enjeux de confidentialité et RGPD
+*  Recherche par **email, IP, domaine et username**
+*  Orchestration de plusieurs sources OSINT
+*  Corrélation des informations
+*  Analyse assistée par IA
+*  Dashboard interactif
+*  Identification des risques de sécurité
+*  Évaluation automatique de la fiabilité des informations
+*  Prise en compte des enjeux de confidentialité et RGPD
 
-### 🧠 ICG — Indice de Confiance Global
+###  ICG — Indice de Confiance Global
 
 J'ai développé une approche de scoring visant à évaluer le niveau de confiance que l'on peut accorder aux informations collectées.
 
@@ -111,9 +111,9 @@ Projet présenté lors du **Salon Technologique "Évolution Technologique et Str
 
 ---
 
-# 🛡️ Projets Cybersécurité
+# Projets Cybersécurité
 
-## 🔴 Vulnerability Management
+##  Vulnerability Management
 
 Travaux pratiques et professionnels autour de l'identification, de la priorisation et de la remédiation des vulnérabilités.
 
@@ -127,7 +127,7 @@ Lors d'une expérience professionnelle, j'ai contribué à la gestion des vulné
 
 ---
 
-## 🚨 SOC & Security Monitoring
+##  SOC & Security Monitoring
 
 Travaux pratiques autour de la supervision et de la détection d'événements de sécurité.
 
@@ -172,7 +172,7 @@ Travaux pratiques en cybersécurité offensive :
 
 Mon expérience technique est aujourd'hui complétée par une orientation forte vers la **gouvernance et la gestion des risques cyber**.
 
-## 🏢 Junior IT Auditor — Wafacash Central Africa
+## 🏢 Auditeur IT Junior — Wafacash Central Africa
 
 ### Analyse de risques
 
@@ -184,7 +184,7 @@ Mon expérience technique est aujourd'hui complétée par une orientation forte 
 ### Audit & conformité
 
 * **ISO 27001**
-* **ISO 27002**
+* **ISO 27005**
 * Contrôles de sécurité
 * Collecte d'éléments probants
 * Évaluation de conformité
@@ -257,7 +257,15 @@ Je cherche à faire le lien entre la réalité technique d'un SI et les enjeux d
 
 ---
 
-# 🎓 Formation
+#  Formation
+
+### Université de Technologie de Troyes — UTT
+
+**Mastère Spécialisé® Audit de la Sécurité des SI**
+
+📅 Septembre 2026
+💼 Alternance — 12 mois
+🔄 3 semaines entreprise / 1 semaine école
 
 ### Institut UCAC-ICAM
 
@@ -277,13 +285,7 @@ Dernier semestre / projet de fin d'études :
 
 ---
 
-### Université de Technologie de Troyes — UTT
 
-**Mastère Spécialisé® Audit de la Sécurité des SI**
-
-📅 Septembre 2026
-💼 Alternance — 15 mois
-🔄 3 semaines entreprise / 1 semaine école
 
 ---
 
@@ -291,15 +293,13 @@ Dernier semestre / projet de fin d'études :
 
 Je développe continuellement mes compétences à travers :
 
-* 🧪 TryHackMe
-* 🏴 Hack The Box
-* 🔴 Root-Me
-* 📖 ISO 27001 / 27002
-* 🛡️ EBIOS Risk Manager
-* 🌐 Labs réseaux & systèmes
-* 🔎 Investigations OSINT
+* TryHackMe
+* Hack The Box
+* Root-Me
+* EBIOS Risk Manager
+* Labs réseaux & systèmes
+* Investigations OSINT
 
-🔗 **[Voir mes certifications et formations](#)**
 
 ---
 
@@ -309,11 +309,11 @@ Je développe continuellement mes compétences à travers :
 
 Je développe également des projets autour de la musique et de l'événementiel, avec notamment une réflexion autour d'une **plateforme de mise en relation entre DJs, clients et organisateurs d'événements**.
 
-## 🚀 Entrepreneuriat
+##  Entrepreneuriat
 
 J'aime transformer une idée en **prototype concret**, tester rapidement une solution et réfléchir à son potentiel réel.
 
-## 🌍 Technologie & Afrique
+## Technologie & Afrique
 
 Plusieurs de mes projets cherchent à appliquer la technologie à des problématiques concrètes dans des contextes africains, notamment dans :
 
@@ -325,13 +325,13 @@ Plusieurs de mes projets cherchent à appliquer la technologie à des problémat
 
 | Domaine             | Projet                       |
 | ------------------- | ---------------------------- |
-| 🔎 OSINT            | OSINT Investigation Platform |
-| 🛡️ Cybersecurity   | Vulnerability Management     |
-| 🚨 SOC              | Security Monitoring Lab      |
-| 🧪 Pentest          | Offensive Security Labs      |
-| 📋 GRC              | Risk Analysis / IT Audit     |
-| 🌱 AI / IoT         | Wi_Grow                      |
-| 🚀 Entrepreneurship | DJ & Event Marketplace       |
+|    OSINT            | OSINT Investigation Platform |
+|    Cybersecurity    | Vulnerability Management     |
+|    SOC              | Security Monitoring Lab      |
+|    Pentest          | Offensive Security Labs      |
+|    GRC              | Risk Analysis / IT Audit     |
+|    AI / IoT         | Wi_Grow                      |
+|    Entrepreneurship | DJ & Event Marketplace       |
 
 👉 **[Explorer tous mes repositories](https://github.com/YOUR_USERNAME?tab=repositories)**
 
@@ -343,7 +343,7 @@ Je suis particulièrement intéressé par les opportunités en :
 
 **IT Audit · Cybersecurity Audit · GRC · Risk Management · Security Governance · RSSI · SOC · Security Engineering**
 
-📧 **Email :** [your-email@example.com](mailto:your-email@example.com)
+📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:olsenick.mbekal@gmail.com)
 💼 **LinkedIn :** [Mon profil LinkedIn](#)
 🌐 **Portfolio :** [Mon portfolio](#)
 🐙 **GitHub :** [Mes repositories](https://github.com/YOUR_USERNAME)
@@ -362,13 +362,13 @@ Je suis particulièrement intéressé par les opportunités en :
 
 I am a **Computer Science Engineer specialized in Network & Cybersecurity**, graduated from **Institut UCAC-ICAM**, with my final semester completed at **Icam Nantes, France**.
 
-My background combines a strong **technical cybersecurity foundation** — networking, systems, SOC, vulnerability management, penetration testing and hardening — with a growing focus on **GRC, IT audit, cybersecurity risk management and security governance**.
+My background combines a strong **technical cybersecurity foundation** networking, systems, SOC, vulnerability management, penetration testing and hardening with a growing focus on **GRC, IT audit, cybersecurity risk management and security governance**.
 
 🎓 Starting September 2026, I will pursue the **Mastère Spécialisé® in Information Systems Security Auditing at Université de Technologie de Troyes (UTT)**.
 
-💼 I am looking for a **15-month apprenticeship** in:
+💼 I am looking for a **12 month apprenticeship** in:
 
-* 🔎 IT & Cybersecurity Audit
+*  IT & Cybersecurity Audit
 * 📋 GRC — Governance, Risk & Compliance
 * 🛡️ Cybersecurity Risk Management
 * 🏛️ Information Security Governance
@@ -381,9 +381,9 @@ My background combines a strong **technical cybersecurity foundation** — netwo
 
 ---
 
-## 🧭 Areas of Expertise
+## Areas of Expertise
 
-| 🔐 Cybersecurity         | 📋 GRC & Risk       | 🌐 Infrastructure |
+|  Cybersecurity           |  GRC & Risk         | Infrastructure |
 | ------------------------ | ------------------- | ----------------- |
 | OSINT                    | IT Audit            | Networking        |
 | Pentesting               | EBIOS Risk Manager  | TCP/IP            |
@@ -394,9 +394,9 @@ My background combines a strong **technical cybersecurity foundation** — netwo
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 🔎 OSINT Investigation & Cyber Intelligence Platform
+##  OSINT Investigation & Cyber Intelligence Platform
 
 ### Centralized multi-source OSINT investigation platform
 
@@ -415,7 +415,7 @@ The objective is to build a centralized platform that aggregates and correlates 
 * 📈 Automated information reliability assessment
 * 🔐 Privacy & GDPR considerations
 
-### 🧠 ICG — Global Confidence Index
+###  ICG — Global Confidence Index
 
 I designed a reliability-scoring approach to assess the level of confidence that can be placed in collected information.
 
@@ -461,9 +461,9 @@ The project was presented at the **"Évolution Technologique et Stratégique de 
 
 ---
 
-# 🛡️ Cybersecurity Projects
+#  Cybersecurity Projects
 
-## 🔴 Vulnerability Management
+##  Vulnerability Management
 
 Practical and professional work focused on vulnerability identification, prioritization and remediation.
 
@@ -498,7 +498,7 @@ Topics covered:
 
 ---
 
-## 🧪 Offensive Security Labs
+##  Offensive Security Labs
 
 Hands-on cybersecurity work covering:
 
@@ -518,11 +518,11 @@ Hands-on cybersecurity work covering:
 
 ---
 
-# 📋 GRC · IT Audit · Risk Management
+# GRC · IT Audit · Risk Management
 
 My technical cybersecurity background is increasingly complemented by a strong focus on **governance and cyber risk management**.
 
-## 🏢 Junior IT Auditor — Wafacash Central Africa
+##  Junior IT Auditor — Wafacash Central Africa
 
 ### Risk Analysis
 
@@ -534,7 +534,7 @@ My technical cybersecurity background is increasingly complemented by a strong f
 ### Audit & Compliance
 
 * **ISO 27001**
-* **ISO 27002**
+* **ISO 27005**
 * Security controls
 * Audit evidence
 * Compliance assessment
@@ -551,9 +551,9 @@ This experience strengthened my interest in cybersecurity as a discipline connec
 
 ---
 
-# 🧰 Technical Stack
+#  Technical Stack
 
-### 🔐 Cybersecurity
+### Cybersecurity
 
 `OSINT` `Pentesting` `Vulnerability Management` `SOC` `SIEM` `Hardening`
 
