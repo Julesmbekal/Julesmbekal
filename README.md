@@ -2,20 +2,22 @@
 
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
+###Bienvenue sur mon Portfolio,
+###Je suis **Jules Oscar MBEKAL**, Ingénieur cybersécurité. Bonne lecture  
+
 [Email](mailto:Olsenick.mbekal@gmail.com)      |   [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
 
 > 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
 
 🇫🇷 Français
 
-💼 **Recherche d'alternance de 12 mois** (à partir de Septembre 2026) | Rythme : 3 semaines entreprise / 1 semaine école
+ **Recherche d'alternance de 12 mois** (à partir de Septembre 2026) | Rythme : 3 semaines entreprise / 1 semaine école
 
 
 ---
-## 🎯 À propos de moi
+##  À propos de moi
 
 
- Je suis ingénieur en informatique spécialisé en Réseau & Cybersécurité, diplômé de l'ICAM.
 Mon parcours combine une approche technique de la cybersécurité, réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement avec une orientation croissante vers **la GRC, l'audit IT, la gestion des risques et la gouvernance de la sécurité**.
 
 
@@ -69,7 +71,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 
-## 💼 Expériences professionnelles
+##  Expériences professionnelles
 
 
 ### Ingénieur chercheur en cybersécurité — ICAM Nantes
@@ -143,7 +145,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 ---
 
-## 🚀 Projets académiques et annexes
+##  Projets académiques et annexes
 
 
 
@@ -196,7 +198,7 @@ Conception de l'infrastructure système, réseau et télécom destinée à suppo
 
 
 
-## 🎓 Objectifs et certifications
+##  Objectifs et certifications
 
 
 **Certifications :**
@@ -211,21 +213,21 @@ Conception de l'infrastructure système, réseau et télécom destinée à suppo
 
 ---
 
-## 🌍 Au-delà de la Cybersécurité
+##  Au-delà de la Cybersécurité
 
-* **🎧 DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
-* **🚀 Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques).
+* ** DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
+* ** Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques).
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les postes :
 **Auditeur SSI Junior · Assistant RSSI · Assistant Chef de Projet Sécurité / GRC · Analyste Risk Management**
 
-* 📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
-* 📱 **Téléphone :** +33 7 54 75 97 52
-* 💼 **LinkedIn :** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
+*  **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
+*  **Téléphone :** +33 7 54 75 97 52
+*  **LinkedIn :** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
 
 
@@ -237,13 +239,13 @@ Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les pos
 
 🇬🇧 English   |   🇫🇷 [Version française](README.md)
 
-💼 **Looking for a 12-month apprenticeship** (starting September 2026) | Schedule: 3 weeks at the company / 1 week at school
+ **Looking for a 12-month apprenticeship** (starting September 2026) | Schedule: 3 weeks at the company / 1 week at school
 [Email](mailto:Olsenick.mbekal@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
 ---
 
-## 🎯 About me
+##  About me
 
 I'm a computer science engineer specializing in Network & Cybersecurity, graduated from ICAM.
 My background combines a technical approach to cybersecurity — networks, systems, SOC, vulnerability management, pentesting and hardening — with a growing focus on **GRC, IT audit, risk management and security governance**.
@@ -280,7 +282,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 
 ---
 
-## 🎓 Education & Certifications
+##  Education & Certifications
 
 - **2026 → Mastère Spécialisé® in Information Systems Security Auditing** — Université de Technologie de Troyes (UTT), apprenticeship
 - **Engineering in Computer Science, specialization Network & Cybersecurity (Bac+5)** —ICAM, 09/2021 - 07/2026;
@@ -292,7 +294,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 
 ---
 
-## 💼 Professional experience
+## Professional experience
 
 ### Cybersecurity Research Engineer — ICAM Nantes
 *January 2026 – June 2026*
@@ -350,7 +352,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 
 ---
 
-## 🚀 Academic & side projects
+##  Academic & side projects
 
 ### Wi_Grow — connected agriculture in Cameroon
 *IoT · drones · AI · computer vision*
@@ -391,7 +393,7 @@ Designed the system, network and telecom infrastructure to support a student soc
 
 ---
 
-## 🎓 Goals and certifications
+##  Goals and certifications
 
 **Certifications:**
 - Fortinet Certified Associate
@@ -404,21 +406,21 @@ Designed the system, network and telecom infrastructure to support a student soc
 
 ---
 
-## 🌍 Beyond cybersecurity
+##  Beyond cybersecurity
 
-* **🎧 DJing & Event Tech:** Exploring tech solutions to simplify event organization and the artist/client relationship.
-* **🚀 Entrepreneurship & Tech in Africa:** Prototyping solutions suited to the continent's challenges (connected agriculture, cybersecurity, digital services).
+* ** DJing & Event Tech:** Exploring tech solutions to simplify event organization and the artist/client relationship.
+* ** Entrepreneurship & Tech in Africa:** Prototyping solutions suited to the continent's challenges (connected agriculture, cybersecurity, digital services).
 
 ---
 
-## 🤝 Contact
+##  Contact
 
 Actively looking for a **12-month apprenticeship starting September 2026** for roles such as:
 **Junior IT Security Auditor · Assistant CISO · Assistant Security/GRC Project Manager · Risk Management Analyst**
 
-* 📧 **Email:** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
-* 📱 **Phone:** +33 7 54 75 97 52
-* 💼 **LinkedIn:** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
+*  **Email:** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
+*  **Phone:** +33 7 54 75 97 52
+*  **LinkedIn:** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
 
 > ### *"Cybersecurity is not only about protecting systems. It is about understanding what matters, identifying what can go wrong, and enabling better decisions."*
