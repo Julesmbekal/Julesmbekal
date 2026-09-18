@@ -11,7 +11,7 @@
 [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
 
 ---
-    ## 🎯 À propos de moi
+## 🎯 À propos de moi
 
 
  Je suis ingénieur en informatique spécialisé en Réseau & Cybersécurité, diplômé de l'ICAM.
@@ -60,8 +60,8 @@ Mon objectif : **Comprendre la technique $\rightarrow$ Identifier le risque $\ri
 - **Apprentissage continu** : TryHackMe, Hack The Box, Root-Me
 
 ### Certifications
-* **Validées :** Fortinet Certified Associate (FCA)[cite: 1], Fortinet Certified Fundamentals (FCF)[cite: 1], CCNA[cite: 1], Cisco Junior Cybersecurity Analyst[cite: 1], Six Sigma Yellow Belt[cite: 1], Scrum Fundamental[cite: 1].
-* **Formations & Préparations en cours :** Certified Ethical Hacker v13 (CEHv13 - Formation théorique & pratique 2025)[cite: 1], PMP / Prince2 (Bases théoriques)[cite: 1], EBIOS RM[cite: 1].
+* **Validées :** Fortinet Certified Associate (FCA), Fortinet Certified Fundamentals (FCF), CCNA Cisco Junior Cybersecurity Analyst, Six Sigma Yellow Belt, Scrum Fundamental.
+* **Formations & Préparations en cours :** Certified Ethical Hacker v13 (CEHv13 - Formation théorique & pratique 2025), PMP / Prince2 (Bases théoriques), EBIOS RM.
 
 
 ---
@@ -151,9 +151,9 @@ Mon objectif : **Comprendre la technique $\rightarrow$ Identifier le risque $\ri
 
 
 *Plateforme d'orchestration OSINT multi-sources avec évaluation automatisée de la fiabilité (ICG)*
-*-**Périmètre :** Projet de fin d'études à l'Icam Nantes visant à centraliser et corréler les données d'investigation (Email, IP, Domaine, Nom d'utilisateur)[cite: 1].
+*-**Périmètre :** Projet de fin d'études à l'Icam Nantes visant à centraliser et corréler les données d'investigation (Email, IP, Domaine, Nom d'utilisateur).
 *- **Score ICG (Indice de Confiance Global) :** Algorithme de scoring de la fiabilité de l'information s'appuyant sur les normes **STANAG 2022** et la grille de qualité de données **Wang & Strong** (Exactitude, Complétude, Cohérence, Fraîcheur).
-*- **Stack :** Python, Docker, IA, Dashboarding, OSINT Frameworks[cite: 1].
+*- **Stack :** Python, Docker, IA, Dashboarding, OSINT Frameworks.
 
 Projet présenté au salon ETSIA (Évolution Technologique et Stratégique de l'Informatique en Afrique). 
 
@@ -213,18 +213,18 @@ Conception de l'infrastructure système, réseau et télécom destinée à suppo
 ## 🌍 Au-delà de la Cybersécurité
 
 * **🎧 DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
-* **🚀 Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques)[cite: 1].
+* **🚀 Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques).
 
 ---
 
 ## 🤝 Contact
 
-Recherche active d'une **alternance de 12 mois dès Septembre 2026**[cite: 1] sur les postes :
-**Auditeur SSI Junior · Assistant RSSI · Assistant Chef de Projet Sécurité / GRC · Analyste Risk Management**[cite: 1]
+Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les postes :
+**Auditeur SSI Junior · Assistant RSSI · Assistant Chef de Projet Sécurité / GRC · Analyste Risk Management**
 
-* 📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)[cite: 1]
-* 📱 **Téléphone :** +33 7 54 75 97 52[cite: 1]
-* 💼 **LinkedIn :** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)[cite: 1]
+* 📧 **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
+* 📱 **Téléphone :** +33 7 54 75 97 52
+* 💼 **LinkedIn :** [jules-oscar-olsenick-mbekal](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/)
 
 
 
