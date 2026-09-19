@@ -1,7 +1,5 @@
 # Jules Oscar MBEKAL
 
-<img src="img/MBEKAL-Jules-Oscar-X2026.jpg" alt="Jules Oscar MBEKAL" width="200"/>
-
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
 Bienvenue sur mon Portfolio,
@@ -54,7 +52,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 - **Français** — langue maternelle
-- **Anglais** — niveau C1, [TOEIC 905/990](TOEIC_Oscar.pdf)
+- **Anglais** — niveau C1, [TOEIC 905/990](/documents/TOEIC_Oscar.pdf)
 
 
 ---
@@ -166,7 +164,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 Plateforme technologique de suivi agricole combinant capteurs sol, imagerie drone et détection IA de maladies/nuisibles. 1er prix du concours d'éloquence, présenté au salon ETSIA.
 
-[Voir le projet ](WI_grow.pdf)
+[Voir le projet ](documents/WI_grow.pdf)
 
 
 ### Projet d'annuaire et Supervision
@@ -238,7 +236,6 @@ Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les pos
 
 # 🇬🇧 English
 
-<img src="img/MBEKAL-Jules-Oscar-X2026.jpg" alt="Jules Oscar MBEKAL" width="200"/>
 
 **Network & Cybersecurity Engineer | Cybersecurity Analysis · IT Audit · GRC · IT Governance · Risk Management**
 
