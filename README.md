@@ -54,7 +54,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 - **Français** — langue maternelle
-- **Anglais** — niveau C1, [TOEIC 905/990](TOEIC%20Oscar.pdf)
+- **Anglais** — niveau C1, [TOEIC 905/990](TOEIC_Oscar.pdf)
 
 
 ---
@@ -283,7 +283,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 ## Languages
 
 - **French** — native
-- **English** — C1 level, [TOEIC 905/990](TOEIC%20Oscar.pdf)
+- **English** — C1 level, [TOEIC 905/990](documents/TOEIC_Oscar.pdf)
 
 ---
 
@@ -373,7 +373,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 
 Agricultural monitoring platform combining soil sensors, drone imagery and AI-based disease/pest detection. 1st Prize at the public speaking competition, presented at the ETSIA event.
 
-[View presentation (PDF)](WI_grow.pdf)
+[View presentation (PDF)](documents/WI_grow.pdf)
 
 ### Directory Services and Monitoring Project
 
