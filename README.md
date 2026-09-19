@@ -52,7 +52,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 - **Français** — langue maternelle
-- **Anglais** — niveau C1, [TOEIC 905/990](/documents/TOEIC_Oscar.pdf)
+- **Anglais** — niveau C1, [TOEIC 905/990](/documents/TOEIC-Oscar.pdf)
 
 
 ---
@@ -280,7 +280,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 ## Languages
 
 - **French** — native
-- **English** — C1 level, [TOEIC 905/990](documents/TOEIC_Oscar.pdf)
+- **English** — C1 level, [TOEIC 905/990](documents/TOEIC-Oscar.pdf)
 
 ---
 
