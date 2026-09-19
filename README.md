@@ -1,9 +1,6 @@
-# Bienvenue sur mon Portfolio de Jules Oscar Olsenick,
+# Je suis Jules Oscar MBEKAL,
 
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
-
-
-Je suis **Jules Oscar MBEKAL**, Ingénieur cybersécurité. Bonne lecture  
 
 [Email](mailto:Olsenick.mbekal@gmail.com)      |   [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
 
@@ -23,25 +20,7 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
 
  Ma vision de la cybersécurité s'articule autour de trois dimensions indissociables :
 
-             ┌─────────────────────┐
-             │      BUSINESS       │
-             │  Impact · Stratégie │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │       RISQUES       │
-             │ Menaces · Contrôles │
-             │   Conformité · GRC  │
-             └──────────┬──────────┘
-                        │
-                        ▼
-             ┌─────────────────────┐
-             │     TECHNOLOGIE     │
-             │ Réseaux · Systèmes  │
-             │   Sécurité · SOC    │
-             └──────────┬──────────┘
-
+ ![Vision cybersécurité — Business, Risques, Technologie](img/vision-cybersecurite.svg)
 
 Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · l'impact métier · Recommander les contrôles adaptés.**
 
