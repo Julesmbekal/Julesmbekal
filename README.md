@@ -414,8 +414,8 @@ Designed the system, network and telecom infrastructure to support a student soc
 
 ##  Beyond cybersecurity
 
-* ** DJing & Event Tech:** Exploring tech solutions to simplify event organization and the artist/client relationship.
-* ** Entrepreneurship & Tech in Africa:** Prototyping solutions suited to the continent's challenges (connected agriculture, cybersecurity, digital services).
+* **DJing & Event Tech:** Exploring tech solutions to simplify event organization and the artist/client relationship.
+* **Entrepreneurship & Tech in Africa:** Prototyping solutions suited to the continent's challenges (connected agriculture, cybersecurity, digital services).
 
 ---
 
