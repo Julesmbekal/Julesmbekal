@@ -1,8 +1,8 @@
-# Jules Oscar MBEKAL
+# Bienvenue sur mon Portfolio de Jules Oscar Olsenick,
 
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
-Bienvenue sur mon Portfolio,
+
 Je suis **Jules Oscar MBEKAL**, Ingénieur cybersécurité. Bonne lecture  
 
 [Email](mailto:Olsenick.mbekal@gmail.com)      |   [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
@@ -121,11 +121,9 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 - Surveillance des événements, analyse des alertes, détection et réponse aux incidents en tant que SOC Analyst
 - Création de KPI de sécurité, actualisation des procédures et animation d'ateliers de sensibilisation
 
-
 **Impacts clés :**
 - Réduction de 30 % du délai moyen de remédiation des vulnérabilités (passage de 5 à 2 jours)
 - Élimination des vulnérabilités critiques du parc informatique
-
 
 **Compétences :** Vulnerability Management · Threat Intelligence · OpenVAS/Greenbone · Pentest Grey Box · Audit SSI · SOC · Security Monitoring · Incident Response · Remédiation · KPI de sécurité · Sensibilisation cybersécurité
 
@@ -133,12 +131,10 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 ### Assistance support — Numtek
 *Avril 2023 – Juin 2023*
 
-
 **Réalisations :**
 - Assistance support informatique auprès des utilisateurs
 - Mise en place d'un Active Directory pour l'authentification des employés
 - Déploiement d'un serveur de fichiers ainsi qu'un portail captif pour l'authentification des employés
-
 
 **Compétences :** Active Directory · Support informatique · Serveur de fichiers · Portail captif
 
@@ -226,6 +222,7 @@ Conception de l'infrastructure système, réseau et télécom destinée à suppo
 ##  Contact
 
 Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les postes :
+
 **Auditeur SSI Junior · Assistant RSSI · Assistant Chef de Projet Sécurité / GRC · Analyste Risk Management**
 
 *  **Email :** [Olsenick.mbekal@gmail.com](mailto:Olsenick.mbekal@gmail.com)
