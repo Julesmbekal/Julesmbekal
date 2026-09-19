@@ -156,7 +156,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 *- **Score ICG (Indice de Confiance Global) :** Algorithme de scoring de la fiabilité de l'information s'appuyant sur les normes **STANAG 2022** et la grille de qualité de données **Wang & Strong** (Exactitude, Complétude, Cohérence, Fraîcheur).
 *- **Stack :** Python, Docker, IA, Dashboarding, OSINT Frameworks.
 
-[Voir le projet](https://VOTRE-LIEN)
+[Voir le projet](video/Sentinel.mp4)
 
 
 ### Wi_Grow — agriculture connectée au Cameroun
@@ -363,7 +363,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 - **ICG Score (Global Confidence Index):** A scoring algorithm for information reliability based on the **STANAG 2022** standard and the **Wang & Strong** data-quality framework (Accuracy, Completeness, Consistency, Timeliness).
 - **Stack:** Python, Docker, AI, Dashboarding, OSINT Frameworks.
 
-[View project](https://YOUR-LINK)
+[View project](video/Sentinel.mp4)
 
 ### Wi_Grow — connected agriculture in Cameroon
 *IoT · drones · AI · computer vision*
