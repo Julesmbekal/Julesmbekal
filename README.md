@@ -218,8 +218,8 @@ Conception de l'infrastructure système, réseau et télécom destinée à suppo
 
 ##  Au-delà de la Cybersécurité
 
-* ** DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
-* ** Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques).
+* **DJing & Event Tech :** Exploration de solutions technologiques pour simplifier l'organisation événementielle et la relation artistes/clients.
+* **Entrepreneuriat & Tech en Afrique :** Prototypage de solutions adaptées aux enjeux du continent (Agriculture connectée, cybersécurité, services numériques).
 
 ---
 
