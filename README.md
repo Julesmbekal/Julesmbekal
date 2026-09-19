@@ -1,5 +1,7 @@
 # Jules Oscar MBEKAL
 
+<img src="img/MBEKAL-Jules-Oscar-X2026.jpg" alt="Jules Oscar MBEKAL" width="200"/>
+
 ### Ingénieur Réseau & Cybersécurité | Analyse cybersécurité · Audit SI · GRC · Gouvernance IT · Gestion des risques
 
 Bienvenue sur mon Portfolio,
@@ -7,7 +9,7 @@ Je suis **Jules Oscar MBEKAL**, Ingénieur cybersécurité. Bonne lecture
 
 [Email](mailto:Olsenick.mbekal@gmail.com)      |   [LinkedIn](https://www.linkedin.com/in/jules-oscar-olsenick-mbekal-771a84267/) 
 
-> 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
+> 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
 
 🇫🇷 Français
 
@@ -52,7 +54,7 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 - **Français** — langue maternelle
-- **Anglais** — niveau C1, [TOEIC 905/990](https://www.ets.org/toeic.html)
+- **Anglais** — niveau C1, [TOEIC 905/990](TOEIC%20Oscar.pdf)
 
 
 ---
@@ -149,19 +151,22 @@ Mon objectif : **Comprendre la technique · Identifier le risque Communiquer · 
 
 
 
-### Wi_Grow — agriculture connectée au Cameroun
-*IoT · drones · IA · vision par ordinateur*
-
+### OSINT Investigation & Cyber Intelligence Platform
 
 *Plateforme d'orchestration OSINT multi-sources avec évaluation automatisée de la fiabilité (ICG)*
 *-**Périmètre :** Projet de fin d'études à l'Icam Nantes visant à centraliser et corréler les données d'investigation (Email, IP, Domaine, Nom d'utilisateur).
 *- **Score ICG (Indice de Confiance Global) :** Algorithme de scoring de la fiabilité de l'information s'appuyant sur les normes **STANAG 2022** et la grille de qualité de données **Wang & Strong** (Exactitude, Complétude, Cohérence, Fraîcheur).
 *- **Stack :** Python, Docker, IA, Dashboarding, OSINT Frameworks.
 
-Projet présenté au salon ETSIA (Évolution Technologique et Stratégique de l'Informatique en Afrique). 
-
-
 [Voir le projet](https://VOTRE-LIEN)
+
+
+### Wi_Grow — agriculture connectée au Cameroun
+*IoT · drones · IA · vision par ordinateur*
+
+Plateforme technologique de suivi agricole combinant capteurs sol, imagerie drone et détection IA de maladies/nuisibles. 1er prix du concours d'éloquence, présenté au salon ETSIA.
+
+[Voir le projet ](WI_grow.pdf)
 
 
 ### Projet d'annuaire et Supervision
@@ -233,7 +238,7 @@ Recherche active d'une **alternance de 12 mois dès Septembre 2026** sur les pos
 
 # 🇬🇧 English
 
- Jules Oscar Mbekal
+<img src="img/MBEKAL-Jules-Oscar-X2026.jpg" alt="Jules Oscar MBEKAL" width="200"/>
 
 **Network & Cybersecurity Engineer | Cybersecurity Analysis · IT Audit · GRC · IT Governance · Risk Management**
 
@@ -278,7 +283,7 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 ## Languages
 
 - **French** — native
-- **English** — C1 level, [TOEIC 905/990](https://www.ets.org/toeic.html)
+- **English** — C1 level, [TOEIC 905/990](TOEIC%20Oscar.pdf)
 
 ---
 
@@ -354,17 +359,21 @@ My goal: **Understand the technical · Identify the risk ·  Communicate the bus
 
 ##  Academic & side projects
 
-### Wi_Grow — connected agriculture in Cameroon
-*IoT · drones · AI · computer vision*
+### OSINT Investigation & Cyber Intelligence Platform
 
 *Multi-source OSINT orchestration platform with automated reliability scoring (ICG)*
 - **Scope:** End-of-studies project at Icam Nantes aiming to centralize and correlate investigation data (email, IP, domain, username).
 - **ICG Score (Global Confidence Index):** A scoring algorithm for information reliability based on the **STANAG 2022** standard and the **Wang & Strong** data-quality framework (Accuracy, Completeness, Consistency, Timeliness).
 - **Stack:** Python, Docker, AI, Dashboarding, OSINT Frameworks.
 
-Presented at the ETSIA event (Évolution Technologique et Stratégique de l'Informatique en Afrique).
-
 [View project](https://YOUR-LINK)
+
+### Wi_Grow — connected agriculture in Cameroon
+*IoT · drones · AI · computer vision*
+
+Agricultural monitoring platform combining soil sensors, drone imagery and AI-based disease/pest detection. 1st Prize at the public speaking competition, presented at the ETSIA event.
+
+[View presentation (PDF)](WI_grow.pdf)
 
 ### Directory Services and Monitoring Project
 
