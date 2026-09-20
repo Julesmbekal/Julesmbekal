@@ -40,6 +40,8 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
 - Optimisation globale des méthodes de veille et de recherche en cybersécurité (offensive et défensive)
 - Sensibilisation et montée en compétences de plus de 100 étudiants sur les enjeux OSINT
 **Compétences :** OSINT · Analyse de données · IA appliquée à la cybersécurité · Orchestration d'outils · Docker · Dashboarding · IAM · MFA/2FA · Cloud · Monitoring
+  
+  [Voir le projet ](video/Sentinel.mp4)
 
 ### Assistant Sécurité SI — Wafacash Central Africa
 *Août 2024 – Janvier 2025*
@@ -81,6 +83,7 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
 *IoT · drones · IA · vision par ordinateur*
 - Plateforme technologique de suivi agricole combinant capteurs sol, 
 - imagerie drone et détection IA de maladies/nuisibles, présenté au salon ETSIA.
+  
 [Voir le projet ](documents/WI_grow.pdf)
 
 ### Projet d'annuaire et Supervision
