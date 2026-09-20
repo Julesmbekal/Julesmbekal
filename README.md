@@ -6,12 +6,14 @@
 
 > 🇫🇷 [**Français**](#-français)   |   🇬🇧 [**English**](#-english)
 🇫🇷 Français
-**Recherche d'alternance de 12 mois** (à partir de Septembre 2026) | Rythme : 3 semaines entreprise / 1 semaine école
+
 ---
 
 ##  À PROPOS DE MOI
 
 Mon parcours combine une approche technique de la cybersécurité, réseaux, systèmes, SOC, gestion des vulnérabilités, pentest et durcissement avec une orientation croissante vers **la GRC, l'audit IT, la gestion des risques et la gouvernance de la sécurité**.
+
+**Je recherche une alternance de 12 mois** à partir de **Septembre 2026** au **Rythme : 3 semaines entreprise / 1 semaine école*
 
 ---
 ## Langues
@@ -102,15 +104,37 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
 ---
 ## Compétences globales
 
+### Audit & GRC
+![EBIOS RM](https://img.shields.io/badge/EBIOS_RM-0055A4?style=flat-square)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0055A4?style=flat-square)
+![ISO 27002](https://img.shields.io/badge/ISO_27002-0055A4?style=flat-square)
+![ISO 27005](https://img.shields.io/badge/ISO_27005-0055A4?style=flat-square)
+![NIS2](https://img.shields.io/badge/NIS2-003B5C?style=flat-square)
+![GRC](https://img.shields.io/badge/GRC-374151?style=flat-square)
+![IT Audit](https://img.shields.io/badge/IT_Audit-374151?style=flat-square)
+![TPRM](https://img.shields.io/badge/TPRM-374151?style=flat-square)
 
-| Domaine | Détail |
-| --- | --- |
-| **Audit & GRC** | Audit SI, EBIOS RM, Risk Management, Analyse de risques IT, ISO 27001 / 27002 / 27005, NIS2, TPRM, Gap Analysis, PSSI, Conformité SSI, gouvernance de la sécurité, KPI & Reporting, Pilotage de projet |
-| **Sécurité offensive & opérationnelle** | SOC, SIEM, Security Monitoring, Incident Response, Vulnerability Management, Remédiation, Pentest Grey Box, Threat Intelligence, durcissement, OSINT |
-| **Cybersécurité appliquée / IA & Data** | IA appliquée à la cybersécurité, Analyse de données, Dashboarding, Orchestration d'outils, IAM, MFA/2FA |
-| **Infrastructure & Systèmes** | TCP/IP, LAN/WAN, Windows Server, Linux, Active Directory, FortiGate, VMware, Cloud, Docker, Monitoring |
-| **Outils & Automatisation** | Python, PowerShell, Bash, OpenVAS/Greenbone, Centreon |
-| **Sensibilisation & pédagogie** | Animation d'ateliers de sensibilisation, formation d'étudiants aux enjeux OSINT |
+### Sécurité opérationnelle
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-00A98F?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-1F2937?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC-111827?style=flat-square)
+
+### Infrastructure & Automatisation
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+
+
+### **Sensibilisation & pédagogie** | Animation d'ateliers de sensibilisation, formation d'étudiants aux enjeux OSINT |
 
 
 ---
