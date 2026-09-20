@@ -117,10 +117,9 @@ Mon parcours combine une approche technique de la cybersécurité, réseaux, sys
 
 ## Formation
 
-
-- **2026 → Mastère Spécialisé® Audit de la Sécurité des SI** — Université de Technologie de Troyes (UTT), en alternance
-- **Diplôme d'ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5)** — Institut UCAC-ICAM (Cameroun), 09/2021 - 07/2026 ; dernier semestre et projet de fin d'études à l'Icam Nantes
-- **Apprentissage continu** : TryHackMe, Hack The Box, Root-Me
+|Année | Etablissement | Filière |
+|**2026 - 2027| Université de Technologie de Troyes (UTT) |  Mastère Spécialisé® Audit de la Sécurité des SI | 
+|**2021 - 2026** | ICAM | Ingénieur en informatique, spécialisation Réseau & Cybersécurité (Bac+5) |
 
 ---
 ##  Objectifs et certifications
