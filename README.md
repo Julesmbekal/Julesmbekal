@@ -4,7 +4,7 @@
 
 ---
 
-> 🇫🇷 [**Français**](README.md)   |   🇬🇧 [**English**](README.en_(2).md)
+> 🇫🇷 [**Français**](README.md)   |   🇬🇧 [**English**](README.en.md)
 
 🇫🇷 Français
 
